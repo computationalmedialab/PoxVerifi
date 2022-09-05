@@ -1,0 +1,18 @@
+.vContainer {
+  flex: 1;
+  flex-direction: row;
+
+  text-align: center;
+}
+
+.icon {
+  font-size: 24pt;
+  margin-left: 15pt;
+  margin-right: 15pt;
+  margin-top: 12pt;
+  cursor: pointer;
+}
+
+.icon:hover {
+  filter: brightness(130%);
+}

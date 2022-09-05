@@ -1,0 +1,15 @@
+.container {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  background-color: #8da1b925;
+}
+
+.header {
+  background-color: #003f91;
+  color: white;
+  justify-content: center;
+  text-align: center;
+  font-size: 16pt;
+  padding: 5pt;
+}

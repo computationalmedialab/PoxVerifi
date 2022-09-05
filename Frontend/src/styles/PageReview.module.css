@@ -1,0 +1,37 @@
+.container {
+  /* padding: 10pt; */
+}
+
+.subContainer {
+  padding-left: 10pt;
+  padding-right: 10pt;
+  padding-top: 5pt;
+  min-height: 100pt;
+}
+.subContainer2 {
+  min-height: 80pt;
+  padding: 0pt;
+}
+
+.subContainer2 h1 {
+  padding-left: 10pt;
+  padding-right: 10pt;
+  padding-top: 5pt;
+}
+
+.container h1 {
+  font-size: 14pt;
+  font-weight: bold;
+}
+
+.container h2 {
+  font-size: 12pt;
+  font-weight: lighter;
+  font-style: italic;
+}
+
+.soloh2 {
+  font-size: 12pt;
+  font-weight: lighter;
+  font-style: italic;
+}

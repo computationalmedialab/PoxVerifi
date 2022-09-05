@@ -1,0 +1,7 @@
+.container {
+  max-height: 50vh;
+  max-width: 300px;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
